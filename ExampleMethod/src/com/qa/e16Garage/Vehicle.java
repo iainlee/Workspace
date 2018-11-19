@@ -1,6 +1,6 @@
 package com.qa.e16Garage;
 
-public class Vehicle {
+public abstract class Vehicle {
 
 	protected String maker;
 	protected String license;
